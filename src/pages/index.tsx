@@ -13,7 +13,7 @@ export default function Home() {
             STEALTH-GEN
           </h1>
           <p className="text-muted-foreground text-lg max-w-xl mx-auto">
-            The next generation of cryptographic utility for professionals who don't compromise.
+            The next generation of cryptographic utility for professionals who don&apos;t compromise.
           </p>
         </div>
 
